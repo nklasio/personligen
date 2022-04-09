@@ -15,14 +15,14 @@ export default function Page() {
               href="https://twitter.com/@nklasio"
               className="flex flex-row items-center "
             >
-              <BsTwitter className="h-6 w-6 text-[#00acee]" />
+              <BsTwitter className="mr-2 h-6 w-6 text-[#00acee]" />
               <span className="text-gray-600">@nklasio</span>
             </a>
             <a
-              href="https://twitter.com/@nklasio"
+              href="https://github.com/nklasio"
               className="flex flex-row items-center ml-4"
             >
-              <BsGithub className="h-6 w-6 text-[#171515]" />
+              <BsGithub className="mr-2 h-6 w-6 text-[#171515]" />
               <span className="text-gray-600">@nklasio</span>
             </a>
           </div>
